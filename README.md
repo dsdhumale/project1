@@ -7,5 +7,5 @@ These repository is for practice
 6. git push origin master
 
 for system configuration
-git config --global user.email johndoe@example.com
 git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
